@@ -1,0 +1,41 @@
+{
+  "squadName": "Escuadrón de SuperRegios",
+  "homeTown" : "Ciudad de Nuevo Leon",
+  "formado": 2000,
+  "secretBase": "El Super Norte",
+  "activo": cierto,
+  "miembros" : [
+    {
+      "nombre": "CarneMan",
+      "edad": 29,
+      "secretIdentity": "Richard el loco",
+      "poderes" : [
+        "Resistencia al Covid-19 ",
+        "No le dan las crudas",
+        "Explosión al sol"
+      ]
+    },
+    {
+      "nombre": "Sindy la Regia",
+      "edad": 39,
+      "identidadsecreta": "Fernanda",
+      "poderes" : [
+        "Fresa",
+        "habilidad para organizar pedas",
+        "Reflejos de tóxica"
+      ]
+    },
+    {
+      "nombre": "El chato",
+      "edad": 1000000,
+      "secretIdentity": "Desconocido",
+      "poderes" : [
+        "Sacar casa para carne asada",
+        "Casarse con su prima",
+        "Escaparse de la poli",
+        "Teletransportación",
+        "Viaje interdimensional"
+      ]
+    }
+  ]
+}
