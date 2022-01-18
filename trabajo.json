@@ -3,7 +3,7 @@
   "homeTown" : "Ciudad de Nuevo Leon",
   "formado": 2000,
   "secretBase": "El Super Norte",
-  "activo": cierto,
+  "activo": "cierto",
   "miembros" : [
     {
       "nombre": "CarneMan",
